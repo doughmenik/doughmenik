@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @doughmenik
+- 👀 I’m interested in tech & personal development
+- 🌱 I’m currently learning C#
